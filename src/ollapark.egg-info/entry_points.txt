@@ -1,2 +1,0 @@
-[console_scripts]
-ollapark = ollapark.cli:cli
