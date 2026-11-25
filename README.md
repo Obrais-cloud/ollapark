@@ -102,7 +102,7 @@ profiles:
 
 Part of the Ollama fleet toolkit:
 - [ollafleet](https://github.com/Obrais-cloud/ollafleet) — Fleet status + management CLI
-- [ollaroute](https://github.com/Obrais-cloud/ollaroute) — Smart model routing proxy
+- ollaroute — Smart model routing proxy
 - [ollametrics](https://github.com/Obrais-cloud/ollametrics) — Prometheus exporter
 
 ## License
